@@ -3,3 +3,4 @@ function revealMessage() {
   message.classList.remove('hidden');
   document.getElementById('revealButton').style.display = 'none';
 }
+
